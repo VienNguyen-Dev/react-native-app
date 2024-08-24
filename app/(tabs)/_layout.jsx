@@ -27,6 +27,7 @@ const TabsLayout = () => {
             borderTopColor: "#232533",
             backgroundColor: "#161622",
           },
+          headerShown: false,
         }}
       >
         <Tabs.Screen
